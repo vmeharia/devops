@@ -1,0 +1,7 @@
+git init
+git add .
+git status
+git commit -m "Initial commit"
+git log
+git diff
+git checkout 2eefd8a09e9d99c705c905dc962c4863cd141686
